@@ -12,7 +12,7 @@
             - data : `dora.npz` (n, length, dim)
             - meta : `dora_meta.csv`
     - Pre-processing process for Finetune 
-        - `prepare_DORA_KA51AG8742.ipynb`
+        - `ts2vec/datasets/prepare_DORA_KA51AG8742.ipynb`
             - `X_train.npz, X_test.npz, y_train.npz, y_test.npz`
 
 2. Training (in directory ts2vec/)  
