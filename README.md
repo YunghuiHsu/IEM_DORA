@@ -3,7 +3,11 @@
 
 <img src=workflow.png width=600 />
 
-1. Datasets for self-supervised model(ts2vec) training  
+[Review for  Deep Learning with Time Series Data](https://hackmd.io/@YungHuiHsu/r1yCihCPo)
+
+[TS2Vec(Towards Universal Representation of Time Series) 論文筆記](https://hackmd.io/SL6FT2JISlykJFhDognKyg)
+
+1. Datasets for training  
     - The data source uses Chung-Hao Lee's pre-screened anomalous events([ADDCAT](https://arxiv.org/abs/2212.07691))
         - `ts2vec/datasets/DORA/df_event_all_v1.feather`
     - data preparation  
