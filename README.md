@@ -1,7 +1,7 @@
 
  
 
-<img src=workflow.png width=600 />
+<img src=workflow.png width=800 />
 
 [Review for  Deep Learning with Time Series Data](https://hackmd.io/@YungHuiHsu/r1yCihCPo)
 
